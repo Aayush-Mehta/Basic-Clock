@@ -14,8 +14,4 @@
 <h2>About the Project</h2>
 <p>This project was created as a learning exercise for HTML and JavaScript. It demonstrates how to create a basic web page with dynamic content that updates in real-time using JavaScript.</p>
 
-<h2>Contributing</h2>
-<p>Contributions to the project are welcome. If you find any issues or have ideas for improving the clock, please create a pull request or submit an issue on GitHub.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
